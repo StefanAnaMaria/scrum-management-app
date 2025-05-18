@@ -23,10 +23,6 @@ This project is a basic Scrum project management tool built using Microsoft Acce
 
 ## 📸 Screenshots
 
-*(You can insert images here using Markdown syntax after uploading them to the repo or linking them)*
-
-```markdown
-![Dashboard Screenshot](screenshots/dashboard.png)
 ![menu](https://github.com/user-attachments/assets/7f2f89f6-25f6-454b-a473-a7788ebb83fa)
 ![grafic](https://github.com/user-attachments/assets/ff873353-1932-46ea-8010-a12d25ccc4c7)
 ![ecran](https://github.com/user-attachments/assets/db5571db-b677-46fd-8459-108da3d14ae8)
